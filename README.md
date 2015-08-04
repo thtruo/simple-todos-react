@@ -9,4 +9,5 @@ I've gone through the awesome Discover Meteor tutorial and have a decent underst
 
 - React uses JSX (not a problem, since the React package in Meteor automatically compiles `.jsx` files)
 - JSX files use the ES6 features
+- Use mixins in order to use data from a Meteor collection in a React component
 - 
